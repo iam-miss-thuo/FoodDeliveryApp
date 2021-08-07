@@ -1,0 +1,13 @@
+<TextView
+
+    android:id="@+id/textView"
+    android:layout_width="match_parent"
+    android:layout_height="67dp"
+    android:gravity="center"
+    android:text="TextView"
+    android:background="@drawable/button002"
+    android:textColor="@color/white"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

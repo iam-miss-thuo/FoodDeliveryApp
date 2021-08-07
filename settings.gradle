@@ -1,0 +1,2 @@
+rootProject.name = "QuickStore005"
+include ':app'
